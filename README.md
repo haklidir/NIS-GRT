@@ -10,8 +10,6 @@ For regression approach, Linear Regression and Linear SVM models have been used.
 
 For classification approach, traditional machine learning classifiers (SVM and KNN) and advanced machine learning classifier (RNN) have been used. You can run these models. (ResTempClass.m)
 
-# PAPER
-
 It has been developed by Füsun S. Tut Haklıdır,  Mehmet Haklıdır
 
 1 Istanbul Bilgi University, Department of Energy Systems Engineering, Eyüp Istanbul-Turkey
