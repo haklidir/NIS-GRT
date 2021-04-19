@@ -12,12 +12,7 @@ For classification approach, traditional machine learning classifiers (SVM and K
 
 # PAPER
 
-It has been developed for 
-
-"Predicting the Geothermal Reservoir Temperatures with Hydrogeochemical Aspect in Western Anatolia (Turkey): A Machine Learning Approach" has been submitted to Computer and Geosciences Journal https://www.journals.elsevier.com/computers-and-geosciences
-
-by
-Füsun S. Tut Haklıdır,  Mehmet Haklıdır
+It has been developed by Füsun S. Tut Haklıdır,  Mehmet Haklıdır
 
 1 Istanbul Bilgi University, Department of Energy Systems Engineering, Eyüp Istanbul-Turkey
 
